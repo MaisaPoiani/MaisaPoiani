@@ -34,5 +34,3 @@
 😄 Fun fact: While you read this profile, the light traveled more than a million km, perhaps reaching from the Sun to here. 
   </br> Enjoy the sunlight! ☀️
 </div>
-
-![Snake animation](https://github.com/MaisaPoiani/MaisaPoiani/blob/output/github-contribution-grid-snake.svg)
