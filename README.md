@@ -1,5 +1,7 @@
 ### Hi, this is Maísa! 👋
 
+---------
+
 ![Maísa GitHub stats](https://github-readme-stats.vercel.app/api?username=MaisaPoiani&theme=midnight-purple&show_icons=true)
 
 ### 💬 You can contact me:
@@ -30,7 +32,9 @@
 🤖 Next stop: AI programming.
 </div>
 
-<div style="display: inline_block"></br>
+---------
+
+<div style="display: inline_block">
 😄 Fun fact: While you read this profile, the light traveled more than a million km, perhaps reaching from the Sun to here. 
   </br> Enjoy the sunlight! ☀️
 </div>
