@@ -1,14 +1,6 @@
 ### Hi, this is Maísa! 👋
 
 ---------
-
-![Maísa GitHub stats](https://github-readme-stats.vercel.app/api?username=MaisaPoiani&theme=midnight-purple&show_icons=true)
-
-### 💬 You can contact me:
-
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maisa-poiani)
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maisampoiani@hotmail.com)
-
 ### 🔭 I like to work with:
 <div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -31,6 +23,12 @@
   </br>
 🤖 Next stop: AI programming.
 </div>
+
+### 💬 You can contact me:
+
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maisa-poiani)
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maisampoiani@hotmail.com)
+
 
 ---------
 
